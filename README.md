@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I'm finding ways to use AI 🧠 to make our lives better ✊
+I’m Mirantha, a computer scientist working on AI every day.
+
+[![discord](https://img.shields.io/badge/chat-discord-blueviolet)](https://discord.gg/UgeAukFB)
+
 <!--
 **miranthajayatilake/miranthajayatilake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
