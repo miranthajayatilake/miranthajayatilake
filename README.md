@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I’m Mirantha, a computer scientist working on AI every day.
+I’m Mirantha. A Computer Scientist building AI-centric software. PhD @ Manchester. I like machine learning in production 🧠 🚀💥
 
-[![discord](https://img.shields.io/badge/chat-discord-blueviolet)](https://discord.gg/UgeAukFB)
+[![discord](https://img.shields.io/badge/chat-discord-blueviolet)](https://discord.gg/Pu2YJDzScZ)
 
 <!--
 **miranthajayatilake/miranthajayatilake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
